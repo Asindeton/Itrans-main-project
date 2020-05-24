@@ -1,5 +1,6 @@
 {
     "port":5000,
     "jwtSecret": "legankovTestString",
-    "mongoUri":"mongodb+srv://legankov95:pass123@cluster0-k9vja.mongodb.net/app?retryWrites=true&w=majority"
+    "mongoUri":"mongodb+srv://legankov95:pass123@cluster0-k9vja.mongodb.net/app?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
 }
