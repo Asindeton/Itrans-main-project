@@ -1,6 +1,6 @@
 {
-    "port":5000,
+    "port":80,
     "jwtSecret": "legankovTestString",
     "mongoUri":"mongodb+srv://legankov95:pass123@cluster0-k9vja.mongodb.net/app?retryWrites=true&w=majority",
-    "baseUrl": "http://localhost:5000"
+    "baseUrl": "https://damp-fortress-71334.herokuapp.com/"
 }
